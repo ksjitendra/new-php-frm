@@ -1,0 +1,5 @@
+[2023-07-19 17:37:37] ERROR: Call to undefined function App\Models\Carboow()
+[2023-07-19 17:38:55] ERROR: Saving Category- Call to undefined function App\Models\Carboow()
+[2023-07-20 09:43:22] ERROR: Saving Category- Call to undefined function App\Models\now()
+[2023-07-20 09:44:39] ERROR: Saving Category- Call to undefined function App\Models\now()
+[2023-07-20 09:56:45] ERROR: Saving Category- Call to undefined function App\Models\now()
